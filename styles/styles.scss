@@ -1,5 +1,6 @@
 * {
   color: black;
+  font-family: "Montserrat", sans-serif;
 }
 
 body {
@@ -29,7 +30,9 @@ h1 {
 }
 
 input {
-  width: 90%;
+  font-weight: bold;
+  text-align: center;
+  width: 40%;
   padding: 10px 15px;
   margin: 10px 0;
   border: none;
